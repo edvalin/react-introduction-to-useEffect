@@ -1,4 +1,4 @@
-# Template!!! Change it
+# React - Introduction to useEffect
 
 ## Setup 
 Before we begin writing code, let's setup the project and install all necesarry packages.
